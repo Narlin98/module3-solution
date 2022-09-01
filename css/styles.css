@@ -1,0 +1,68 @@
+body {
+  font-size: 16px;
+  font-family: 'Comic Neue', cursive;
+  color:#000000; ;
+}
+
+#header-nav {
+  background-color:#848D92;
+  border-radius: 0;
+  border: 2px solid #000000;
+ ;
+}
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* Nombre */
+  color: #000000;
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  text-align: left;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid #000000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.2em;
+    background-color: #FFFFFF;
+  }
+
+#nav-list {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+#nav-list a {
+  color: #000000;
+  text-align: center;
+  margin-top: 1px;
+}
+#nav-list a:hover {
+  background: #E1E6E9;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+/*cuerpo*/
+#descripcion {
+  margin-top: 20;
+}
+
+
+
+section div {
+  background-color: #D3D3D3;
+  margin: 20px;
+}
